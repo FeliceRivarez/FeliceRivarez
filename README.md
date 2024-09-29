@@ -1,5 +1,5 @@
 ![图片](https://github.com/user-attachments/assets/bcce1a57-3f99-4743-a311-6b8a34d5a5f2)
-![](https://komarev.com/ghpvc/?username=FeliceRivarez)
+Views since Sept 9th, 2024: ![](https://komarev.com/ghpvc/?username=FeliceRivarez)
 
 **Hi there, this is FeliceRivarez.**
 
