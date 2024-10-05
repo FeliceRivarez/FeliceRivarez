@@ -27,6 +27,8 @@ In this semester(Fall 2024), courses I am taking include：
 I will make repositories for some of these courses public after the end of this semester. If I am allowed to, public repos to appear include NLP and Computer Graphics. Repos for other courses will probably not be made public since there are already numerous other repos for reference.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeliceRivarez&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+Private repos other than course repos are for research purposes. Though I'd very much like to make them public, it remain unknown whether I am allowed to do so, considering research ethics and anonymity of paper submissions. For now, I simply use these repos for code backup and version control.
+
 <!---
 FeliceRivarez/FeliceRivarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
