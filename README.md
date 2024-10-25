@@ -5,7 +5,7 @@ Views since Sept 29th, 2024: ![](https://komarev.com/ghpvc/?username=FeliceRivar
 
 I am currently an undergraduate in College of Computer Science, Nankai University. Feel free to drop an email, you can reach me at 1802771190@qq.com, or 2213218@mail.nankai.edu.cn.
 
-My research interest is mainly authentication and password security. However, Anonymous Messaging and End-to-End encryption would also be of great interest, if I have the time to dive into the field in the future.
+My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. Anonymous Messaging and End-to-End encryption would be of great interest, if I have the time to dive into the field in the future. 
 
 Previous course repos(public) include:
 
