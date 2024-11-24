@@ -3,7 +3,9 @@ Views since Sept 29th, 2024: ![](https://komarev.com/ghpvc/?username=FeliceRivar
 
 **Hi there, this is FeliceRivarez.**
 
-I am currently an undergraduate in College of Computer Science, Nankai University. Feel free to drop an email, you can reach me at 1802771190@qq.com, or 2213218@mail.nankai.edu.cn.
+My Chinese name is Yifei Zhang (张逸非). Though I have an English name (Neil, the English given name my parents chose for me), it turns out that people prefer "Yifei" over "Neil", as Yifei is easy to pronounce for English speakers (thanks to my mom who actually took this into consideration upon the selection of my Chinese name), and Neil seems a little old-fashioned.
+
+I am currently an undergraduate in the College of Computer Science, Nankai University. Feel free to drop an email, you can reach me at 1802771190@qq.com, or yifeizhang@mail.nankai.edu.cn.
 
 My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. Anonymous Messaging and End-to-End encryption would be of great interest, if I have the time to dive into the field in the future. 
 
