@@ -22,7 +22,7 @@ Publication:
 
 - EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning
   
-  **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (CCF-C), to appear.
+  **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), to appear.
 
 In this semester(Fall 2024), courses I am taking include：
 - Operating System
