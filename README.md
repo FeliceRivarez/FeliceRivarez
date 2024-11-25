@@ -37,6 +37,8 @@ I will make repositories for some of these courses public after the end of this 
 
 Private repos other than course repos are for research purposes. Though I'd very much like to make them public, it remains unknown whether I am allowed to do so, considering research ethics and anonymity of paper submissions. For now, I simply use these repos for code backup and version control.
 
+I am considering making a homepage for myself, probably in Dec. 2024, mostly for my upcoming technical blogs and research-related inspirations. Other contents may include a gallery, a TODO list, etc.
+
 <!---
 FeliceRivarez/FeliceRivarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
