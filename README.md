@@ -28,7 +28,7 @@ Awards:
 
 - Cryptography National Contest'24, China, held by CACR. Finalist, **Second Prize**. （2024全国密码技术竞赛，**全国决赛二等奖**）
 
-  I personally servered as the presenter and drafted the report, completed the artifact in part. In the group phase of the finals, we were the first.
+  I personally servered as the presenter and drafted/polished the report, completed the artifact in part. In the group phase of the finals, we ranked the first.
   However, in a last minute notice, the score for the preliminary round is also a part of the final score (the prelims took place 2 months before the finals, and was never
   a part of the final result in previous editions of the competition). Due to this sudden change of rules, we lost the chance to win the first prize.
 
