@@ -24,6 +24,18 @@ Publication:
   
   **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), to appear.
 
+Awards:
+
+- Cryptography National Contest'24, China, held by CACR. Finalist, **Second Prize**. （2024全国密码技术竞赛，**全国决赛二等奖**）
+
+  I personally servered as the presenter and drafted the report, completed the artifact in part. In the group phase of the finals, we were the first.
+  However, in a last minute notice, the score for the preliminary round is also a part of the final score (the prelims took place 2 months before the finals, and was never
+  a part of the final result in previous editions of the competition). Due to this sudden change of rules, we lost the chance to win the first prize.
+
+- Contemporary Undergraduate Mathematical Contest in Modeling, National contest'24, China. **Second Prize (Tianjin)**. （2024全国大学生数学建模竞赛，**天津市二等奖**）
+
+  I personally served as team leader, model designer, and programmer.
+  
 In this semester(Fall 2024), courses I am taking include：
 - Operating System
 - Computer Architecture
