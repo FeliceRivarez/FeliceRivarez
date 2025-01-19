@@ -11,9 +11,9 @@ My current research interest is mainly authentication and password security. I a
 
 Previous course repos(public) include:
 
-- Programming with C++
-- Programming with Python
-- Computer Graphics
+- Programming with C++ (Final project ranked #1 in the College of CS. Course final score: 94/100)
+- Programming with Python (Score: 96/100)
+- Computer Graphics (Score: 100/100)
 - Natural Language Processing
 
 Under construction:
@@ -25,6 +25,8 @@ Publication:
 - EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning
   
   **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), **Best Paper runner-up** (3 out of 47 total accepted/conditional accept papers). To appear. [[PDF (Not final ver.)]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
+
+- At least 2 papers are in preparation with me being the first author. These papers will be targeting USENIX security, ACM CCS, S&P, and NDSS.
 
 Awards:
 
@@ -38,15 +40,14 @@ Awards:
 
   I personally served as team leader, model designer, and programmer.
   
-In this semester(Fall 2024), courses I am taking include：
-- Operating System
-- Computer Architecture
-- Compilers
-- Computer Network
-- NLP
-- Computer Graphics.
+In the upcoming semester(Spring 2025), courses I am taking include：
+- Computer system design (计算机系统设计，专业必修课)
+- Software engineering
+- Deep learning (Advanced) (深度学习-高阶，专业选修课)
+- Big data computation and application （大数据计算与应用，专业选修课）
 
-I will make repositories for some of these courses public after the end of this semester. If I am allowed to, public repos to appear include NLP and Computer Graphics. Repos for other courses will probably not be made public since there are already numerous other repos for reference.
+At the end of spring 2025, course repos to appear include those for deep learning and big data (subject to change). Repos for other courses may also be made public.
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeliceRivarez&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Private repos other than course repos are for research purposes. Though I'd very much like to make them public, it remains unknown whether I am allowed to do so, considering research ethics and anonymity of paper submissions. For now, I simply use these repos for code backup and version control.
