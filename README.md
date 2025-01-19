@@ -7,7 +7,7 @@ My Chinese name is Yifei Zhang (张逸非). Though I have an English name (Neil,
 
 I am currently an undergraduate in the College of Computer Science, Nankai University. Feel free to drop an email, you can reach me at 1802771190@qq.com, or yifeizhang@mail.nankai.edu.cn.
 
-My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. Anonymous Messaging and End-to-End encryption would be of great interest, if I have the time to dive into the field in the future. 
+My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. Anonymous Messaging, End-to-End encryption and deniable encryption would be of great interest, if I have the time to dive into the field in the future. 
 
 Previous course repos(public) include:
 
