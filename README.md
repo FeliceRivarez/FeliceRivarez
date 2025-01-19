@@ -13,16 +13,18 @@ Previous course repos(public) include:
 
 - Programming with C++
 - Programming with Python
+- Computer Graphics
+- Natural Language Processing
 
 Under construction:
 
-- Parallel Programming
+- Parallel Programming (ETA Feb. 2025)
 
 Publication:
 
 - EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning
   
-  **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), **Best Paper runner-up** (3 out of 47 total accepted/conditional accept papers). To appear. [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
+  **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), **Best Paper runner-up** (3 out of 47 total accepted/conditional accept papers). To appear. [[PDF (Not final ver.)]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
 
 Awards:
 
@@ -49,7 +51,7 @@ I will make repositories for some of these courses public after the end of this 
 
 Private repos other than course repos are for research purposes. Though I'd very much like to make them public, it remains unknown whether I am allowed to do so, considering research ethics and anonymity of paper submissions. For now, I simply use these repos for code backup and version control.
 
-I am considering making a homepage for myself, probably in Dec. 2024, mostly for my upcoming technical blogs and research-related inspirations. Other contents may include a gallery, a TODO list, etc.
+I am considering making a homepage for myself, probably in Jan. 2025 (sorry~ I had to prepare for INSCRYPT presentation and my finals in Dec. 2024), mostly for my upcoming technical blogs and research-related inspirations. Other contents may include a gallery, a TODO list, etc.
 
 <!---
 FeliceRivarez/FeliceRivarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
