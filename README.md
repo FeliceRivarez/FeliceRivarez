@@ -14,7 +14,7 @@ Previous course repos(public) include:
 - Programming with C++ (Final project ranked #1 in the College of CS. Course final score: 94/100)
 - Programming with Python (Score: 96/100)
 - Computer Graphics (Score: 100/100)
-- Natural Language Processing
+- Natural Language Processing (Score: 96/100)
 
 Under construction:
 
