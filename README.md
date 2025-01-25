@@ -26,7 +26,9 @@ Publication:
   
   **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), **Best Paper runner-up** (3 out of 47 total accepted/conditional accept papers). To appear. [[PDF (Not final ver.)]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
 
-- At least 2 papers are in preparation with me being the first author. These papers will be targeting USENIX security, ACM CCS, S&P, and NDSS.
+- One paper under submission with me being the first author (in a CCF-A security conference, conference name is not specified for anonymity in the review process).
+
+- At least 1 paper is in preparation with me being the first author. The paper will be targeting USENIX security, ACM CCS, S&P, and NDSS.
 
 Awards:
 
