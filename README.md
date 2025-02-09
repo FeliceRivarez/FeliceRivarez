@@ -5,7 +5,7 @@ Views since Sept 29th, 2024: ![](https://komarev.com/ghpvc/?username=FeliceRivar
 
 My Chinese name is Yifei Zhang (张逸非). Though I have an English name (Neil, the English given name my parents chose for me), it turns out that people prefer "Yifei" over "Neil", as Yifei is easy to pronounce for English speakers (thanks to my mom who actually took this into consideration upon the selection of my Chinese name), and Neil seems a little old-fashioned.
 
-I am currently an undergraduate in the College of Computer Science, Nankai University. Feel free to drop an email, you can reach me at 1802771190@qq.com, or yifeizhang@mail.nankai.edu.cn.
+I am currently an undergraduate in the College of Computer Science, Nankai University. My homepage is at [https://felicerivarez.github.io](https://felicerivarez.github.io), it is still under construction and may be glitchy. Feel free to drop an email, you can reach me at yifeizhang@mail.nankai.edu.cn.
 
 My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. Anonymous Messaging, End-to-End encryption and deniable encryption would be of great interest, if I have the time to dive into the field in the future. 
 
@@ -54,7 +54,7 @@ At the end of spring 2025, course repos to appear include those for deep learnin
 
 Private repos other than course repos are for research purposes. Though I'd very much like to make them public, it remains unknown whether I am allowed to do so, considering research ethics and anonymity of paper submissions. For now, I simply use these repos for code backup and version control.
 
-I am considering making a homepage for myself, probably in Jan. 2025 (sorry~ I had to prepare for INSCRYPT presentation and my finals in Dec. 2024), mostly for my upcoming technical blogs and research-related inspirations. Other contents may include a gallery, a TODO list, etc.
+<!--- I am considering making a homepage for myself, probably in Jan. 2025 (sorry~ I had to prepare for INSCRYPT presentation and my finals in Dec. 2024), mostly for my upcoming technical blogs and research-related inspirations. Other contents may include a gallery, a TODO list, etc. --->
 
 <!---
 FeliceRivarez/FeliceRivarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
