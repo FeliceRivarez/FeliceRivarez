@@ -49,8 +49,13 @@ In the upcoming semester(Spring 2025), courses I am taking include：
 - Big data computation and application （大数据计算与应用，专业选修课）
 
 At the end of spring 2025, course repos to appear include those for deep learning and big data (subject to change). Repos for other courses may also be made public.
-
+<!---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeliceRivarez&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeliceRivarez&bg_color=ffffff&color=9e4c98&line=ce4848&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeliceRivarez&bg_color=ffffff&color=000000&line=ce4848&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Private repos other than course repos are for research purposes. Though I'd very much like to make them public, it remains unknown whether I am allowed to do so, considering research ethics and anonymity of paper submissions. For now, I simply use these repos for code backup and version control.
 
