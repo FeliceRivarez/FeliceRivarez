@@ -7,7 +7,7 @@ My Chinese name is Yifei Zhang (张逸非). Though I have an English name (Neil,
 
 I am currently an undergraduate in the College of Computer Science, Nankai University. My homepage is at [https://felicerivarez.github.io](https://felicerivarez.github.io), it is still under construction and may be glitchy. Feel free to drop an email, you can reach me at yifeizhang@mail.nankai.edu.cn.
 
-My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. Anonymous Messaging, End-to-End encryption and deniable encryption would be of great interest, if I have the time to dive into the field in the future. 
+My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. AI security, as well as AI for security, will be topics I'd like to dive into in the future. On top of these, anonymous Messaging, End-to-End encryption and deniable encryption would also be of great interest, if I have the time to look into them in the future. 
 
 Previous course repos(public) include:
 
@@ -28,9 +28,9 @@ Publication:
   
   **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), **Best Paper runner-up** (3 out of 47 total accepted/conditional accept papers), pages 255-276. [[PDF (via publisher)]](https://link.springer.com/chapter/10.1007/978-981-96-4731-6_13) [[PDF (Not final)]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
 
-- One paper under submission with me being the first author (in a CCF-A security conference, conference name is not specified for anonymity in the review process).
+<!--- - One paper under submission with me being the first author (in a CCF-A security conference, conference name is not specified for anonymity in the review process). --->
 
-- At least 2 papers with me being the first author. These papers will be targeting top-tier security conferences.
+- At least 2 papers under preparation with me being the first author. These papers will be targeting top-tier security conferences.
 
 Awards:
 
