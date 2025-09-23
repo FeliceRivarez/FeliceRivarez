@@ -5,9 +5,13 @@
 
 My Chinese name is Yifei Zhang (张逸非). Though I have an English name (Neil, the English given name my parents chose for me), it turns out that people prefer "Yifei" over "Neil", as Yifei is easy to pronounce for English speakers (thanks to my mom who actually took this into consideration upon the selection of my Chinese name), and Neil seems a little old-fashioned.
 
-I am currently an undergraduate in the College of Computer Science, Nankai University. My homepage is at [https://felicerivarez.github.io](https://felicerivarez.github.io), it is still under construction and may be glitchy. Feel free to drop an email, you can reach me at yifeizhang@mail.nankai.edu.cn.
+I am currently an undergraduate in the College of Computer Science, Nankai University. I am expected to graduate from NKU in July 2026, and if things go as planned, I will become a Ph.D candidate at the beginning of September 2026, at the Institute of Information Engineering, Chinese Academy of Sciences.
 
-My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. AI security, as well as AI for security, will be topics I'd like to dive into in the future. On top of these, anonymous Messaging, End-to-End encryption and deniable encryption would also be of great interest, if I have the time to look into them in the future. 
+My homepage is at [https://felicerivarez.github.io](https://felicerivarez.github.io). It is still under construction and may be glitchy. Feel free to drop an email, you can reach me at yifeizhang@mail.nankai.edu.cn.
+
+<--My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. AI security, as well as AI for security, will be topics I'd like to dive into in the future. On top of these, anonymous Messaging, End-to-End encryption and deniable encryption would also be of great interest, if I have the time to look into them in the future. -->
+
+My current research interest is mainly AI security as well as AI for security. I will conclude my research projects related to authentication and password security during my final year at Nankai University, as part of my thesis for a Bachelor's degree in Engineering. In the future, End-to-End encryption and deniable encryption would also be of great interest if I have the time.
 
 Previous course repos(public) include:
 
@@ -40,7 +44,7 @@ Awards:
   However, at a last-minute notice, the score for the preliminary round is also a part of the final score (the prelims took place 2 months before the finals, and were never
   a part of the final result in previous editions of the competition). Due to this sudden change of rules, we lost the chance to win the first prize.
 
-- Contemporary Undergraduate Mathematical Contest in Modeling, National contest'24, China. **Second Prize (Tianjin)**. （2024全国大学生数学建模竞赛，**天津市二等奖**）
+- Contemporary Undergraduate Mathematical Contest in Modeling, National Contest '24, China. **Second Prize (Tianjin)**. （2024全国大学生数学建模竞赛，**天津市二等奖**）
 
   I personally served as team leader, model designer, and programmer.
   
