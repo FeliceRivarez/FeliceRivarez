@@ -9,8 +9,6 @@ I am currently an undergraduate in the College of Computer Science, Nankai Unive
 
 My homepage is at [https://felicerivarez.github.io](https://felicerivarez.github.io). It is still under construction and may be glitchy. Feel free to drop an email, you can reach me at yifeizhang@mail.nankai.edu.cn.
 
-<--My current research interest is mainly authentication and password security. I am also looking forward to research in other aspects of cyber/information security. AI security, as well as AI for security, will be topics I'd like to dive into in the future. On top of these, anonymous Messaging, End-to-End encryption and deniable encryption would also be of great interest, if I have the time to look into them in the future. -->
-
 My current research interest is mainly AI security as well as AI for security. I will conclude my research projects related to authentication and password security during my final year at Nankai University, as part of my thesis for a Bachelor's degree in Engineering. In the future, End-to-End encryption and deniable encryption would also be of great interest if I have the time.
 
 Previous course repos(public) include:
