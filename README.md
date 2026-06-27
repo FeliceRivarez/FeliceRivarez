@@ -5,11 +5,12 @@
 
 My Chinese name is Yifei Zhang (张逸非). Though I have an English name (Neil, the English given name my parents chose for me), it turns out that people prefer "Yifei" over "Neil", as Yifei is easy to pronounce for English speakers (thanks to my mom who actually took this into consideration upon the selection of my Chinese name), and Neil seems a little old-fashioned.
 
-I am currently an undergraduate in the College of Computer Science, Nankai University. I am expected to graduate from NKU in July 2026, and if things go as planned, I will become a Ph.D candidate at the beginning of September 2026, at the Institute of Information Engineering, Chinese Academy of Sciences.
+I'm expected to become a Ph.D candidate at the beginning of September 2026, at the Institute of Information Engineering, Chinese Academy of Sciences, with Prof. Guozhu Meng as my supervisor.
+I received my Bachelor of Engineering in Computer Science from Nankai University, under the supervision of Prof. Ding Wang and Dr. Zhenduo Hou. You can find my thesis [here](https://felicerivarez.github.io/download/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v7_26_6_7.pdf), which has received Nankai University's Outstanding Undergraduate Thesis Award.
 
 My homepage is at [https://felicerivarez.github.io](https://felicerivarez.github.io). It is still under construction and may be glitchy. Feel free to drop an email, you can reach me at yifeizhang@mail.nankai.edu.cn.
 
-My current research interest is mainly AI security as well as AI for security. I will conclude my research projects related to authentication and password security during my final year at Nankai University, as part of my thesis for a Bachelor's degree in Engineering. In the future, End-to-End encryption and deniable encryption would also be of great interest if I have the time.
+My current research interest is mainly AI security as well as AI for security. I have concluded my research projects related to authentication and password security during my final year at Nankai University, with 3 papers under submission at prestigious security conferences.
 
 Previous course repos(public) include:
 
@@ -20,19 +21,16 @@ Previous course repos(public) include:
 - Deep Learning (Advanced course, score: 94/100)
 - Speech Recognition (Score: 98/100)
 
+<!---
 Under construction:
 
 - Parallel Programming (When I have the time LOL)
-
+--->
 Publication:
 
 - EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning
   
   **Yifei Zhang**, Zhenduo Hou, Yunkai Zou, Zhen Li, Ding Wang. In Proc. INSCRYPT 2024 (**CCF-C**), **Best Paper runner-up** (3 out of 47 total accepted/conditional accept papers), pages 255-276. [[PDF (via publisher)]](https://link.springer.com/chapter/10.1007/978-981-96-4731-6_13) [[PDF (Not final)]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
-
-<!--- - One paper under submission with me being the first author (in a CCF-A security conference, conference name is not specified for anonymity in the review process). --->
-
-- At least 2 papers under preparation with me being the first author. These papers will be targeting top-tier security conferences.
 
 Awards:
 
@@ -45,8 +43,10 @@ Awards:
 - Contemporary Undergraduate Mathematical Contest in Modeling, National Contest '24, China. **Second Prize (Tianjin)**. （2024全国大学生数学建模竞赛，**天津市二等奖**）
 
   I personally served as team leader, model designer, and programmer.
-  
+
+<!---
 In the remaining semesters of my undergraduate days (Fall 2025 & Spring 2026), I am no longer required to take any courses. I will be focusing on my research and my thesis for a Bachelor's in Engineering.
+--->
 
 <!---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeliceRivarez&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
